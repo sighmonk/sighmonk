@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generuje assety SVG dla profilu GitHub 6ajmon (kafelki kontaktowe + baner)."""
+"""Generuje assety SVG dla profilu GitHub sighmonk (kafelki kontaktowe + baner)."""
 import os
 import re
 import subprocess
