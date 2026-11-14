@@ -55,12 +55,12 @@ As a member of the **Computer Science Student's Association at NCU**, I build in
 
 | Project | What it is | Built with |
 | :-- | :-- | :-- |
-| **[ai-director-demo](https://github.com/sighmonk/ai-director-demo)** | 2D top-down shooter with a custom **AI Director** that tunes difficulty in real time to hold the player in flow — procedural dungeons, live metric-driven adaptation. | `Godot 4` `C#` `.NET 8` |
-| **[LabyrythmMod](https://github.com/sighmonk/LabyrythmMod)** | NeoForge mod: procedurally generated maze where **sound is the stealth mechanic**, plus a boss fight built around it. 🏆 Winner, KNI UMK modding contest. | `Java` `NeoForge 1.21` |
-| **[Deadline](https://github.com/sighmonk/Deadline)** | Fast-paced sci-fi roguelike — purge alien worlds before your power runs out. Kenney Jam 2025 entry. | `Godot 4` `GDScript` |
-| **[BETRUNNER](https://github.com/sighmonk/BETRUNNER)** | Fast-paced 3D platformer, GMTK Game Jam 2026 entry. | `Godot 4` `C#` |
-| **[MindStakes](https://github.com/sighmonk/MindStakes)** | Quiz-show tool for hosts — turn a room of friends into a game show. | `C#` |
-| **[Story.report](https://github.com/sighmonk/Story.report)** | Instagram Story report generator (1080×1920) built from Last.fm listening data. | `Next.js` `TypeScript` |
+| **[ai-director-demo](https://github.com/6ajmon/ai-director-demo)** | 2D top-down shooter with a custom **AI Director** that tunes difficulty in real time to hold the player in flow — procedural dungeons, live metric-driven adaptation. | `Godot 4` `C#` `.NET 8` |
+| **[LabyrythmMod](https://github.com/6ajmon/LabyrythmMod)** | NeoForge mod: procedurally generated maze where **sound is the stealth mechanic**, plus a boss fight built around it. 🏆 Winner, KNI UMK modding contest. | `Java` `NeoForge 1.21` |
+| **[Deadline](https://github.com/6ajmon/Deadline)** | Fast-paced sci-fi roguelike — purge alien worlds before your power runs out. Kenney Jam 2025 entry. | `Godot 4` `GDScript` |
+| **[BETRUNNER](https://github.com/6ajmon/BETRUNNER)** | Fast-paced 3D platformer, GMTK Game Jam 2026 entry. | `Godot 4` `C#` |
+| **[MindStakes](https://github.com/6ajmon/MindStakes)** | Quiz-show tool for hosts — turn a room of friends into a game show. | `C#` |
+| **[Story.report](https://github.com/6ajmon/Story.report)** | Instagram Story report generator (1080×1920) built from Last.fm listening data. | `Next.js` `TypeScript` |
 
 ## 🕹️ Jams & published games
 
@@ -96,19 +96,19 @@ Four jam entries are playable in the browser on my itch.io page:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sighmonk&theme=tokyonight">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sighmonk&theme=default" alt="GitHub profile summary" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6ajmon&theme=tokyonight">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6ajmon&theme=default" alt="GitHub profile summary" width="100%">
   </picture>
   <br><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sighmonk&theme=tokyonight&hide_border=true&background=0D1117&ring=478CBF&fire=7C5CFF&currStreakLabel=478CBF">
-    <img src="https://streak-stats.demolab.com?user=sighmonk&theme=default&hide_border=true&ring=478CBF&fire=7C5CFF&currStreakLabel=0969DA" alt="GitHub streak" height="165">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=6ajmon&theme=tokyonight&hide_border=true&background=0D1117&ring=478CBF&fire=7C5CFF&currStreakLabel=478CBF">
+    <img src="https://streak-stats.demolab.com?user=6ajmon&theme=default&hide_border=true&ring=478CBF&fire=7C5CFF&currStreakLabel=0969DA" alt="GitHub streak" height="165">
   </picture>
 </div>
 
 ## 🏆 Achievements
 
-- **Winner** — Minecraft Modding Competition, KNI UMK (2025) · [LabyrythmMod](https://github.com/sighmonk/LabyrythmMod)
+- **Winner** — Minecraft Modding Competition, KNI UMK (2025) · [LabyrythmMod](https://github.com/6ajmon/LabyrythmMod)
 - **2nd place** — Team Programming Presentations at NCU, social category · [FamilyVault](https://github.com/FamilyVaultApp)
 - **Honourable mention** — 17th National Young Masters Competition (Teleinformatics Forum) · [FamilyVault](https://github.com/FamilyVaultApp)
 
