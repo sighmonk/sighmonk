@@ -1,13 +1,3 @@
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><a href="mailto:hi@sighmonk.com"><img src="assets/btn-gmail.svg" alt="E-mail: hi@sighmonk.com" width="268"></a></td>
-      <td align="center"><a href="https://www.linkedin.com/in/sajmon-koniec/"><img src="assets/btn-linkedin.svg" alt="LinkedIn: in/sajmon-koniec" width="268"></a></td>
-      <td align="center"><a href="https://6ajmon.itch.io"><img src="assets/btn-itch.svg" alt="itch.io: 6ajmon" width="268"></a></td>
-    </tr>
-  </table>
-</div>
-
 # Hi there, I'm Sajmon 👋
 
 I'm pursuing a Master's degree in Computer Science at Nicolaus Copernicus University in Toruń. My primary passion lies in game development, and I'm constantly exploring new ways to create engaging interactive experiences.
@@ -43,3 +33,15 @@ I'm an active member of the Computer Science Student's Association at my univers
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
+
+## 📫 How to reach me
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><a href="mailto:hi@sighmonk.com"><img src="assets/btn-gmail.svg" alt="E-mail: hi@sighmonk.com" width="190"></a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/sajmon-koniec/"><img src="assets/btn-linkedin.svg" alt="LinkedIn: in/sajmon-koniec" width="190"></a></td>
+      <td align="center"><a href="https://6ajmon.itch.io"><img src="assets/btn-itch.svg" alt="itch.io: 6ajmon" width="190"></a></td>
+    </tr>
+  </table>
+</div>
