@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="76" viewBox="0 0 300 76" role="img" aria-label="LINKEDIN: in/sajmon-koniec">
+  <defs>
+    <linearGradient id="g-linkedin" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2E8BE6"/>
+      <stop offset="1" stop-color="#0A4C93"/>
+    </linearGradient>
+    <linearGradient id="sheen-linkedin" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="0.55" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="299" height="75" rx="14" fill="url(#g-linkedin)"/>
+  <rect x="0.5" y="0.5" width="299" height="75" rx="14" fill="url(#sheen-linkedin)"/>
+  <rect x="0.5" y="0.5" width="299" height="75" rx="14" fill="none" stroke="#ffffff" stroke-opacity="0.18"/>
+  <circle cx="42" cy="38.0" r="23" fill="#ffffff" fill-opacity="0.16"/>
+  <circle cx="42" cy="38.0" r="23" fill="none" stroke="#ffffff" stroke-opacity="0.22"/>
+  <g transform="translate(30.0,25.0) scale(1.0833)" fill="#ffffff">
+    <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+  </g>
+  <text x="78" y="32" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1.9" fill="#ffffff" fill-opacity="0.74">LINKEDIN</text>
+  <text x="78" y="55" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="700" letter-spacing="-0.2" fill="#ffffff">in/sajmon-koniec</text>
+</svg>

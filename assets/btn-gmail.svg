@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="76" viewBox="0 0 300 76" role="img" aria-label="E-MAIL: hi@sighmonk.com">
+  <defs>
+    <linearGradient id="g-e-mail" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F4514A"/>
+      <stop offset="1" stop-color="#C5221F"/>
+    </linearGradient>
+    <linearGradient id="sheen-e-mail" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="0.55" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="299" height="75" rx="14" fill="url(#g-e-mail)"/>
+  <rect x="0.5" y="0.5" width="299" height="75" rx="14" fill="url(#sheen-e-mail)"/>
+  <rect x="0.5" y="0.5" width="299" height="75" rx="14" fill="none" stroke="#ffffff" stroke-opacity="0.18"/>
+  <circle cx="42" cy="38.0" r="23" fill="#ffffff" fill-opacity="0.16"/>
+  <circle cx="42" cy="38.0" r="23" fill="none" stroke="#ffffff" stroke-opacity="0.22"/>
+  <g transform="translate(30.0,25.0) scale(1.0833)" fill="#ffffff">
+    <path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/>
+  </g>
+  <text x="78" y="32" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1.9" fill="#ffffff" fill-opacity="0.74">E-MAIL</text>
+  <text x="78" y="55" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="700" letter-spacing="-0.2" fill="#ffffff">hi@sighmonk.com</text>
+</svg>
